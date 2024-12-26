@@ -48,4 +48,4 @@ Before running this project, make sure you have the following software installed
 1. **Clone the Repository**:
    Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/your-repository-name.git
+   git clone https://github.com/keval2292/soloshoes.git
